@@ -1,0 +1,9 @@
+.color-block__title {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 29px;
+    margin: 0 0 0 110px;
+    padding-top: 6px;
+}

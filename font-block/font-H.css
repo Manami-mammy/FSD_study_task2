@@ -1,0 +1,28 @@
+.block-h1 {
+    
+    padding: 0 0 0 67px;
+    margin: 0; 
+    width: 336px;
+    height: 60px;
+}
+
+.block-h2{
+    padding: 0 0 0 67px;
+    margin: 0;
+    width: 282px;
+    height: 48 px;   
+}
+
+ .block-h3{
+    padding: 0 0 0 67px;
+    margin: 0;
+    width: 282px;
+    height: 15px;
+}
+
+.block-body{
+    padding: 0 0 0 67px;
+    margin: 0;
+    width: 301px;
+    height: 48px;
+}
